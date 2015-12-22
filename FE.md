@@ -1,4 +1,4 @@
-# FE WIKI
+# FE wiki
 
 - Librarys
     + [React](https://facebook.github.io/react/)
