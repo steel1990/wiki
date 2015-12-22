@@ -11,12 +11,17 @@
     + [Bootstrap](https://github.com/twbs/bootstrap)(ui)
     + [FontAwesome](http://fontawesome.io/)(icon font)
     + [Handlebars.js](http://handlebarsjs.com/)(tpl)
-    + [Grunt](http://gruntjs.com/)
-    + [gulp.js](http://gulpjs.com/)
     + [cheerio](https://github.com/MatthewMueller/cheerio)(node dom)
     + [hammer](https://github.com/EightMedia/hammer.js)(gesture)
     + [Ace](http://ace.c9.io/)(code editor by js)
     + [jquery treeview](http://jquery.bassistance.de/treeview/demo/)
 
-- Tools
+- Automate
+    + [Grunt](http://gruntjs.com/)
+    + [gulp.js](http://gulpjs.com/)
+
+- Test
+    + [mocha](https://mochajs.org/)
+
+- Server
     + [Firebase](https://www.firebase.com)(real time server)
